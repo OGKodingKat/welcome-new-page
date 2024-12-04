@@ -2,7 +2,7 @@ import React from 'react';
 import WelcomeMessage from '../components/WelcomeMessage';
 
 const About = () => {
-  const name = "Kat Marie";
+  let name = "Kat Marie";
 
   return (
     <div>
